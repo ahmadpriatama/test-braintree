@@ -1,0 +1,16 @@
+{
+    "name": "ahmad/test-braintree",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ahmad Priatama",
+            "email": "ahmad.priatama@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "braintree/braintree_php": "3.26.0",
+        "vlucas/phpdotenv": "^2.5@dev"
+    }
+}
