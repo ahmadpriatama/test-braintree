@@ -5,6 +5,7 @@ Test Braintree server response object on PHP
 - update `.env` with your credential
 - then run
 ```
+composer install 
 php -S localhost:8080
 ```
 - open [Test Page](http://localhost:8080)
